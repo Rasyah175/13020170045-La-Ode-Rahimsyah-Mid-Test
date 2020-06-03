@@ -22,7 +22,7 @@ public class MovieRepository {
 
     public List<CastAndCrew> pacifictRim2013(){
         List<CastAndCrew> al = new ArrayList<>();
-        al.add(new CastAndCrew(R.drawable.charliehunnam, "Charlie Hunam"));
+        al.add(new CastAndCrew(R.drawable.charliehunnam, "Charlie Hunnam"));
         al.add(new CastAndCrew(R.drawable.mako, "Rinko Kikuchi"));
         al.add(new CastAndCrew(R.drawable.idriselba, "Idris Elba"));
         al.add(new CastAndCrew(R.drawable.chalieday, "Charlie Day"));

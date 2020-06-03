@@ -2040,7 +2040,7 @@ menu menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
-string Laoderahimsyah_n130201700045_nmp_2
+string Laoderahimsyah_n130201700045_nmp_1
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
