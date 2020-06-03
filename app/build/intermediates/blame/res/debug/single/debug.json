@@ -1,0 +1,626 @@
+[
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thomasmann.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\thomasmann.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nickrobinson.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\nickrobinson.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_robertkazinsky.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\robertkazinsky.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_olgafonda.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\olgafonda.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grid_to_list.xml.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\grid_to_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_johngoodman.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\johngoodman.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_miliebobbybrown.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\miliebobbybrown.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thomasjane.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\thomasjane.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_samuelljackson.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\samuelljackson.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paci.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\paci.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nickjonas.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\nickjonas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_angelinajolie.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\angelinajolie.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_andyserkis.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\andyserkis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scotteastwood.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\scotteastwood.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_burngorman.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\burngorman.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_venom.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\venom.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ellefanning.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\ellefanning.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_laode.JPG.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\laode.JPG"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boydholbrook.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\boydholbrook.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jennyslate.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\jennyslate.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brielarson.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\brielarson.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_classofthetitans.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\classofthetitans.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rubyrose.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\rubyrose.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ragnarok.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\ragnarok.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_michellewilliams.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\michellewilliams.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pagekennedy.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\pagekennedy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_awkwafina.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\awkwafina.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rainnwilson.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\rainnwilson.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wotanwilkie.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\wotanwilkie.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rizahmed.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\rizahmed.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_malinakerman.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\malinakerman.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_katiemcgrath.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\katiemcgrath.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_mode.xml.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\layout\\list_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rosamundpike.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\rosamundpike.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_carsonbolde.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\carsonbolde.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_joemanganiello.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\joemanganiello.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cliffcurtis.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\cliffcurtis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jur2018.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\jur2018.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vincentdonofrio.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\vincentdonofrio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jacobtremblay.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\jacobtremblay.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edgarramirez.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\edgarramirez.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_elyasmbarek.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\elyasmbarek.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_charliehunnam.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\charliehunnam.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brentonthwaites.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\brentonthwaites.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dakotagoyo.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\dakotagoyo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jamiebell.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\jamiebell.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stefancronwall.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\stefancronwall.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sofiahelin.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\sofiahelin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dannyglover.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\dannyglover.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kayascodelario.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\kayascodelario.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_naomieharris.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\naomieharris.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_roberttaylor.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\roberttaylor.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jaredkesso.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\jaredkesso.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_elizabetholsen.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\elizabetholsen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_malifincent.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\malifincent.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_realsteel.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\realsteel.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bryancranston.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\bryancranston.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_serdariusblain.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\serdariusblain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_whoami.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\whoami.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_karengillan.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\karengillan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ellapurnell.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\ellapurnell.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tobykebbel.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\tobykebbel.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_liamnelson.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\liamnelson.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_madsmikkelsen.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\madsmikkelsen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kongskullisland.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\kongskullisland.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_evangelinelilly.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\evangelinelilly.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_themeg.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\themeg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chrispratt.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\chrispratt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tomschiling.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\tomschiling.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jakelacy.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\jakelacy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_anthonymackie.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\anthonymackie.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marcellabragio.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\marcellabragio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account_box_black_24dp.xml.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\ic_account_box_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kenwatanabe.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\kenwatanabe.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_johnboyega.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\johnboyega.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rhysdarby.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\rhysdarby.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_mode.xml.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\layout\\grid_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tomhiddleston.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\tomhiddleston.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_idriselba.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\idriselba.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jumanjisatu.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\jumanjisatu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kylechandler.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\kylechandler.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_oliviamunn.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\oliviamunn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\layout_cast_and_crew.xml.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\layout\\cast_and_crew.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_verafarmiga.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\verafarmiga.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alexwolff.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\alexwolff.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shuyasophiacai.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\shuyasophiacai.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wrathtitans.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\wrathtitans.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jur2015.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\jur2015.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_breannehill.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\breannehill.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gemmaarterton.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\gemmaarterton.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hughjackman.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\hughjackman.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rampage.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\rampage.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_antoniemonotjr.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\antoniemonotjr.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lilijames.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\lilijames.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_god2019.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\god2019.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dannydavito.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\dannydavito.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aishahinds.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\aishahinds.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kevindurand.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\kevindurand.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_libingbing.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\libingbing.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alexadavalos.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\alexadavalos.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brycedallashoward.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\brycedallashoward.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_maxmartini.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\maxmartini.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jumanjidua.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\jumanjidua.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trinedyrholm.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\trinedyrholm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jackblack.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\jackblack.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mako.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\mako.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_list_white_24dp.xml.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\ic_list_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_laurenlapkus.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\laurenlapkus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ralphfiennes.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\ralphfiennes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_to_grid.xml.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\list_to_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jessicamcnamee.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\jessicamcnamee.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thepredator.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\thepredator.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jasonstatham.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\jasonstatham.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_morganturner.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\morganturner.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_adrienbrody.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\adrienbrody.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aarontaylorjohnson.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\aarontaylorjohnson.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_colinhanks.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\colinhanks.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_irrfankhan.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\irrfankhan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_grid_white_24dp.xml.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\ic_grid_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jingtian.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\jingtian.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kingkong.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\kingkong.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chalieday.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\chalieday.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_samriley.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\samriley.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_winstonchao.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\winstonchao.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kevinhart.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\kevinhart.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_verarudi.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\verarudi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_naomiwatts.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\naomiwatts.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tomhardy.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\tomhardy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nicolaiclevebroch.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\nicolaiclevebroch.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paci13.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\paci13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_samworthington.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\samworthington.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_strlingkbrown.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\strlingkbrown.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_madisoniseman.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\madisoniseman.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jeffreydeanmorgan.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\jeffreydeanmorgan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trevanterhodes.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\trevanterhodes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dwaynejohnson.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\dwaynejohnson.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_god2014.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\god2014.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hannahherzsprung.jpg.flat",
+        "source": "C:\\Users\\rasyah\\Documents\\GitHub\\Project4\\app\\src\\main\\res\\drawable\\hannahherzsprung.jpg"
+    }
+]
