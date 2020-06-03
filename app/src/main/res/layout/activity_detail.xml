@@ -5,7 +5,7 @@
     android:scrollbars="none"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".view.Detail">
+    tools:context="com.laode.tugasproject4.view.Detail">
 
     <LinearLayout
         android:padding="12dp"
